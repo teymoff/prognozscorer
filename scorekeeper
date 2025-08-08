@@ -1,0 +1,13 @@
+settings.gradle
+build.gradle                 (в корне — Project)
+gradle.properties
+app/build.gradle            (Module)
+app/proguard-rules.pro
+app/src/main/AndroidManifest.xml
+app/src/main/res/values/colors.xml
+app/src/main/res/values/themes.xml          ← возьми вариант с DayNight из patch files
+app/src/main/res/menu/menu_main.xml
+app/src/main/res/layout/activity_main.xml
+app/src/main/res/layout/player_card.xml
+app/src/main/res/drawable/score_badge_bg.xml ← возьми вариант из patch files
+app/src/main/java/com/example/scorekeeper4/MainActivity.java ← возьми вариант из patch files
